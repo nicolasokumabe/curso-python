@@ -1,0 +1,46 @@
+*** Objetivo Geral ***
+
+Criar nosso primeiro programa em Python.
+
+
+*** Pré-requisitos ***
+
+● Python 3 
+● VSCode
+
+
+*** Percurso ***
+
+ETAPA 1   Criando nosso primeiro programa
+
+
+ETAPA 1   Criando nosso primeiro programa {
+
+  *** A receita ***
+
+  Programar consiste em informar ao computador 
+  uma sequência de rotinas que devem ser processadas. 
+  Imagine uma receita de bolo, precisamos saber os 
+  ingredientes e modo de preparo. Seguindo corretamente 
+  as instruções ao fim do processo teremos um bolo.
+
+
+  *** Criando nosso arquivo ***
+
+  Para criar a nossa receita de bolo em Python, 
+  precisamos criar um arquivo com extensão py. 
+  Com o arquivo criado podemos inserir nossos 
+  ingredientes e modo de preparo!
+}
+
+
+ETAPA 2   Baixar e configurar a IDE {
+
+  *** VSCode ou PyCharm ***
+
+  VSCode é uma ótima ferramenta e será a nossa escolha por alguns motivos:
+  - Gratuita.
+  - Suporta múltiplas tecnologias.
+  - Boa performance.
+  - Acesse o site: https://code.visualstudio.com/.
+}
