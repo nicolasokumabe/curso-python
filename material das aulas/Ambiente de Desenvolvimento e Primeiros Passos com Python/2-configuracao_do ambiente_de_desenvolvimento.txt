@@ -1,0 +1,47 @@
+*** Objetivo Geral ***
+
+Instalar e configurar nossa máquina, 
+para desenvolver projetos utilizando Python.
+
+
+*** Pré-requisitos ***
+
+● Conexão com a Internet.
+
+
+*** Percurso ***
+
+ETAPA 1   Instalar o Python
+ETAPA 2   Baixar e configurar a IDE
+
+
+ETAPA 1   Instalar o Python {
+
+  *** Linux e MacOS ***
+
+  Provavelmente o Python já está instalado na sua 
+  máquina. Para verificar qual a versão entre com 
+  o comando:
+  python -V ou python3 -V
+
+
+  *** Windows ***
+
+  Como a maioria dos programas Windows, o Python 
+  possui um instalador que pode ser baixado acessando: 
+  http://www.python.org. Após executar a download, 
+  faça a instalação seguindo os passos descritos no tutorial: 
+  https://python.org.br/instalacao-windows/.
+}
+
+
+ETAPA 2   Baixar e configurar a IDE {
+
+  *** VSCode ou PyCharm ***
+
+  VSCode é uma ótima ferramenta e será a nossa escolha por alguns motivos:
+  - Gratuita.
+  - Suporta múltiplas tecnologias.
+  - Boa performance.
+  - Acesse o site: https://code.visualstudio.com/.
+}
